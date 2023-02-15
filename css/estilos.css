@@ -1,0 +1,13 @@
+#contenido{
+    background-color: blue;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+
+#contenido h1{
+    color: white;
+}
